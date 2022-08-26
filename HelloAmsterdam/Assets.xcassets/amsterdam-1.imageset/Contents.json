@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "amsterdam-iphone-12-pro-max.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
